@@ -1,4 +1,4 @@
 # ImageToASCII
-Resize and convert an image pixels to characters.
+An algorithm that changes an image's pixels with characters and saves the result as a text file. Supports image resizing.
 
-When choosing the size in characters of the output it's recommended to use the following resolution: 769x300.
+If you choose a change resolution of the output 'image', the following resolution usually gives best results: 769x300.
