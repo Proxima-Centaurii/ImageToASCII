@@ -1,4 +1,4 @@
 # ImageToASCII
-An algorithm that changes an image's pixels with characters and saves the result as a text file. Supports image resizing.
+An application that changes an image's pixels to characters and saves the result as a text file. 
 
-If you choose a change resolution of the output 'image', the following resolution usually gives best results: 769x300.
+Allows for setting a custom resolution for the output. For best visual results, it is best if you choose a resolution of 769x300 and choose the "sharp" scale. 
