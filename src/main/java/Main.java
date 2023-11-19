@@ -117,7 +117,7 @@ public class Main {
                                                                 "Character scale", 
                                                                 JOptionPane.INFORMATION_MESSAGE, null, 
                                                                 scales.keySet().toArray(), 
-                                                                scales.get("small sharp")
+                                                                "sharp"
                                                                 );
         
         
